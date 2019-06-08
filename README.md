@@ -30,7 +30,7 @@ package.json
 ## Setting up routing
 Using the modules folder, (this is where the different routes and controllers are setup.) you can have a directory structure as follows.
 
-###Example
+### Example
 ```
     /modules
         /users
